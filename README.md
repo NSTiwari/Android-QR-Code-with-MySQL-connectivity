@@ -1,0 +1,1 @@
+# Android-QR-Code-with-MySQL-connectivity
